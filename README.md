@@ -1,5 +1,5 @@
 # 💫About Me :
-"Hello my name is Aiden! I am a passionate student programmer currently attending high school soon to be senior. My journey in programming has been fueled by a desire to learn more and faceing new challenges. I am costently learning almost evrey day on how to improve my self as a programmer.I have been programming for over two and a half years, gaining expertise in a range of languages including HTML, CSS, JavaScript, Python, C++, Java, and Kotlin. My experience spans a variety of fields, from 2D game development and web development to robotics and data science, providing me with a well-rounded skill set in both software and hardware-related projects.
+Hello my name is Aiden! I am a passionate student programmer currently attending high school soon to be senior. My journey in programming has been fueled by a desire to learn more and faceing new challenges. I am costently learning almost evrey day on how to improve my self as a programmer.I have been programming for over two and a half years, gaining expertise in a range of languages including HTML, CSS, JavaScript, Python, C++, Java, and Kotlin. My experience spans a variety of fields, from 2D game development and web development to robotics and data science, providing me with a well-rounded skill set in both software and hardware-related projects.
 
 
 # 💻Tech Stack
