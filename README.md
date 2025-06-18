@@ -11,3 +11,9 @@ Hello my name is Aiden! I am a passionate student programmer currently attending
 
 ---
 [![](https://visitcount.itsvg.in/api?id=791747hnlhymt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=791747hnlhymt&theme=github-compact)
+
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=791747hnlhymt&theme=onedark)
